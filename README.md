@@ -535,7 +535,7 @@ Through this project, practical experience was gained in:
 
 **Janak Gharti**
 
-MSc Data Science and Computational Intelligence
+MSc Data Science and Computational Intelligence, 
 Coventry University, UK
 
 ### Interests
